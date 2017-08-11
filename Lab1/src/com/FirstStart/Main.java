@@ -1,15 +1,17 @@
 package com.FirstStart;
 
-import java.util.Scanner;
+    class  Main {
+    public static void main(String[] args) {
 
-public class Main {
+        for (int i = 1; i < 10; i++) {
+            for (int j = 8; j > 0; j--) {
+                if (j < i) {
+                    System.out.print(j + " ");
+                }
+            }
+            System.out.println(" ");
+        }
 
-    public static void main(String args[]) {
 
-        Scanner sc = new Scanner(System.in);
-        int line = sc.nextInt();
-        Scanner sd = new Scanner(System.in);
-        int line2 = sd.nextInt();
-        System.out.println(line + line2);
     }
 }
