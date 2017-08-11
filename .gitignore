@@ -1,6 +1,6 @@
 # folder logs
-out/
-.idea/
-IdeaProjects.iml/
-src/
-.gitignore/
+/out
+/.idea/
+IdeaProjects.iml
+/src
+.gitignore
