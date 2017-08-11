@@ -1,2 +1,6 @@
-/out/
-/.idea/
+# folder logs
+out/
+.idea/
+IdeaProjects.iml/
+src/
+.gitignore/
