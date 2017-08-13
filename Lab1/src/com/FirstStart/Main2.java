@@ -1,6 +1,6 @@
 package com.FirstStart;
 
-public class Lab6 {
+public class Main2 {
     public static void main(String[] args) {
 
         int[] mas = new int[15];
