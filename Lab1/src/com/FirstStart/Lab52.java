@@ -3,9 +3,11 @@ import java.util.Scanner;
 /*
 Writing simple console application, using "nested-if" statement, "switch-case"
 statement.
+
+            *** 2 способа, граемось коментуванням ***
  */
 
-public class Lab52 {
+    public class Lab52 {
     public static void main(String[] args) {
 
         System.out.print("Введите число 1, 2 или 3: ");
