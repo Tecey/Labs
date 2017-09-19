@@ -13,21 +13,29 @@ Writing simple console application, using nested-loop and if-else construction.
 20
  */
 
-//public class Lab54 {
-//    public static void main(String[] args) {
-//        System.out.print("Введите число 1, 2 или 3: ");
-//        Scanner inputFigure = new Scanner(System.in);
-//        int i = inputFigure.nextInt();
+public class Lab54 {
+    public static void main(String[] args) {
+
+//        int i, j, a = 1;
 //
-//        if (i == 1) {
-//            System.out.println("Вы ввели число 1");
-//        } else if (i == 2) {
-//            System.out.println("Вы ввели число 2");
-//        } else if (i == 3) {
-//            System.out.println("Вы ввели число 3");
-//        } else {
-//            System.out.println("Вы ввели число не равное 1, 2 или 3");
+//        for (i = 3; i < 31; i + 3) {
+//            System.out.println(i);
 //
+//
+//            for (j = 4; j < 41; j + 4) {
+//                System.out.println(j);
+//            }
 //        }
-//    }
-//}
+
+//        if (a <== 10) {
+//            System.out.println("1. " + a);
+//            a++;
+//        }
+//        else if (a == 11) {
+//            System.out.println("Первые 10 чисел от единицы, что деляьтся на 3 и 4, выведены на экран.");
+//        }
+
+
+    }
+
+}
