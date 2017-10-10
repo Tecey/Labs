@@ -7,6 +7,6 @@ public class Lab22 {
         System.out.print("Enter the name of the student:");
         Scanner scan = new Scanner(System.in);
         String name = scan.nextLine();
-        System.out.println (name + " - сongratulations, the task was completed successfully.");
+        System.out.println(name + " - сongratulations, the task was completed successfully.");
     }
 }
