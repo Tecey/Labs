@@ -13,7 +13,7 @@ Writing simple console application, using nested-loop and if-else construction.
 20
  */
 
-public class Lab54 {
+public class Lab54_help {
     public static void main(String[] args) {
 
 //        int i, j, a = 1;

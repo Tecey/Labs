@@ -6,7 +6,7 @@ Using loops.
 
  */
 
-public class Lab53 {
+public class Lab53_h {
     public static void main(String[] args) {
         int i, j, a = 0;
 

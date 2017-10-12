@@ -2,9 +2,11 @@ package src.Lab1_4;
 
 /*
 Why not 5 ?
+
+Write a console program that prints result of bit shift operators for integer variable.
  */
 
-public class Lab45 {
+public class Lab45_help {
     public static void main(String args[]) {
 
         int a = 10;
